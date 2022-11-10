@@ -34563,8 +34563,8 @@ $1(a){var s=this.a
 s.ap(new A.aa9(s,a))},
 $S:384}
 A.aa9.prototype={
-$0(){var s=this.a
-s.r=s.w*this.b.d},
+$0(){var s=this.a,r=s.w*this.b.d
+s.r=r<1?1:r},
 $S:0}
 A.aaa.prototype={
 $0(){},
