@@ -34670,7 +34670,7 @@ q=a.N(s).f
 p=A.a3E()
 o=A.b([],t.p)
 for(n=b.a,m=J.al(n.gbg(n));m.q();){l=m.gC(m)
-o.push(new A.Go(A.ac(180,255,255,255),9,new A.bj(6,6,6,6),new A.bj(3,3,3,3),new A.Ha(A.agO("assets/lottie/information.json",k,k,k,a.N(s).f.a.a/10),A.akn(l,1,5,B.Mv),A.akn(J.dH(n.j(0,l)),1,5,B.KJ),B.n,k),k))}s=A.F0(o,B.ah,B.am)
+o.push(new A.Go(A.ac(180,255,255,255),9,new A.bj(6,6,6,6),new A.bj(3,3,3,3),new A.Ha(A.agO("assets/lottie/information.json",k,k,k,a.N(s).f.a.a/10),A.akn(l,1,5,B.Mv),A.akn(J.dH(n.j(0,l)),2,5,B.KJ),B.n,k),k))}s=A.F0(o,B.ah,B.am)
 return A.kZ(A.i2(new A.K1(p,!1,s,k),q.a.b/1.3,r.a.a/1.5),k,k)}else if(b instanceof A.vR)return A.bX(k,new A.wj(B.BO,k),B.o,k,k,k,k,k,k,k,k,k,k)
 else return A.bX(k,k,B.o,k,k,k,k,k,k,k,k,k,k)},
 $S:344}
