@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b3ff34307e6264a5d198e45603bfb942",
+  "assets/AssetManifest.json": "adfd0b6b9cfa54979dfd6ef63a042cf5",
 "assets/assets/fonts/NotoSansTC-Medium.otf": "3cf084f9bb05158d53e7c239899aaccc",
 "assets/assets/icons/BenQ.svg": "f2ef2aa698cf2e67cfbfc8699141ea0e",
 "assets/assets/icons/dms_logo.svg": "7b64ed38e373cbbc28b722332163f1a5",
@@ -34,6 +34,7 @@ const RESOURCES = {
 "assets/assets/images/appIcon.png": "6b71b4e15701e07d3565686b7e4f25d8",
 "assets/assets/images/BenQ-logo.png": "bd546869aa03bf95225fb0073e2faeec",
 "assets/assets/lottie/background.json": "e7590a46a6d45b0b5dcbcc7c2e95ade4",
+"assets/assets/lottie/circle.json": "5743ec356dbe023a26f89ad8569a28c1",
 "assets/assets/lottie/information.json": "c9bbc35c58c550fb29fbb58be788fe87",
 "assets/assets/lottie/sidebar.json": "b69f3fdecbac51f1408491a2e88b1ae9",
 "assets/FontManifest.json": "0a8548a2a080906bdf35923888523ca7",
@@ -76,10 +77,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "9ea7bebb0d54230d861a458c01f2cd8d",
 "icons/Icon-maskable-192.png": "8c525fa0285fc530a86be35b98659cb5",
 "icons/Icon-maskable-512.png": "9ea7bebb0d54230d861a458c01f2cd8d",
-"index.html": "9371a6ceb58c1c0793a17b727ea175f7",
-"/": "9371a6ceb58c1c0793a17b727ea175f7",
-"main.dart.js": "ed7e86a1eec403028f80921c71f8e697",
-"manifest.json": "d980218904511eb25bcc72a47d5b6135",
+"index.html": "aa47e50eb15d2fc4fb27aec454e23c55",
+"/": "aa47e50eb15d2fc4fb27aec454e23c55",
+"main.dart.js": "e2bf6062078a012b07a2d2388a668e86",
+"manifest.json": "ccfd18ff8e33bf7f31a55a08736b37a3",
 "version.json": "4fae317b63403595e29f531df9889275"
 };
 
