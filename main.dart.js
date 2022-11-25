@@ -37557,26 +37557,28 @@ gls(){return A.b([],t.J)}}
 A.a9b.prototype={}
 A.pM.prototype={
 mY(a){return this.agx(a)},
-agx(a){var s=0,r=A.Y(t.P7),q,p=this,o,n,m,l,k,j,i,h,g
+agx(a){var s=0,r=A.Y(t.P7),q,p=this,o,n,m,l,k,j,i,h
 var $async$mY=A.Z(function(b,c){if(b===1)return A.V(c,r)
-while(true)switch(s){case 0:p.hB(new A.ug(B.Gz))
+while(true)switch(s){case 0:h=t.nR
+p.x=A.b([],h)
+p.hB(new A.ug(B.Gz))
 s=3
 return A.a0(A.ao5(a).Oe("assets/other/shopee.csv"),$async$mY)
 case 3:o=c
 n=A.aLv(A.b([o],t._m),!0,null,",",'"','"',"\n",!0,!0).aaF(o,t.z)
-m=A.b([],t.nR)
+m=A.b([],h)
 p.y=A.b([],t.s)
-for(l=n.length,k=p.x,j=0,i=0;i<n.length;n.length===l||(0,A.K)(n),++i){h=n[i]
-if(!J.e(h[0],"")&&!J.e(h[0],"Name")&&!B.c.E(p.y,h[0])){p.y.push(h[0])
-g=new A.pN()
-g.a=j
-g.b=h[0]
-g.f=h[1]
-g.c=h[2]
-g.d=J.cg(h[3])
-g.e=h[4];++j
-m.push(g)
-k.push(g)}}p.hB(new A.C0(A.Q(m,!0,t.ao)))
+for(h=n.length,l=0,k=0;k<n.length;n.length===h||(0,A.K)(n),++k){j=n[k]
+if(!J.e(j[0],"")&&!J.e(j[0],"Name")&&!B.c.E(p.y,j[0])){p.y.push(j[0])
+i=new A.pN()
+i.a=l
+i.b=j[0]
+i.f=j[1]
+i.c=j[2]
+i.d=J.cg(j[3])
+i.e=j[4];++l
+m.push(i)
+p.x.push(i)}}p.hB(new A.C0(A.Q(m,!0,t.ao)))
 q=n
 s=1
 break
